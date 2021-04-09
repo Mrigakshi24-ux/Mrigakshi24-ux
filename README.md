@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mrigakshi 
+- 👋 Hi, I’m Mrigakshi!!
 - 👀 I'm looking forward to new experiences and adventures.
 - 🌱 I’m currently learning Machine Learning and Artficial Intelligence.
 
